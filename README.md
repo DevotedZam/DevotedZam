@@ -12,6 +12,8 @@
 
 <br>
 
+<br>
+
 <div align="left">
   "cold hearted girl,"
   <img align="left" height="30" src="https://github.com/user-attachments/assets/4b1aa43d-6c07-47f7-807c-5b7780f3e0d5" />
@@ -43,8 +45,6 @@
 
 <div align="left">
 .⋅˚₊‧ 🜲  ‧₊˚
-
-<br>
 
 <br>
 
