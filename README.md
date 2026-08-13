@@ -81,7 +81,7 @@
   .⋅˚₊‧ 🜲  ‧₊˚
 </div>
 
-<img align="left" height="150" src="https://github.com/user-attachments/assets/587bf75a-4a14-43b0-9ba2-9283325ce2db" />
+<img align="left" height="140" src="https://github.com/user-attachments/assets/587bf75a-4a14-43b0-9ba2-9283325ce2db" />
 
 <br>
 
