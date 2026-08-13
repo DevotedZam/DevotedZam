@@ -17,7 +17,7 @@
   <img align="left" height="30" src="https://github.com/user-attachments/assets/4b1aa43d-6c07-47f7-807c-5b7780f3e0d5" />
 </div>
 
-<img align="right" height="200" src="https://github.com/user-attachments/assets/bbbb155b-9c8e-4370-a02d-ec5d2e8d85e8" />
+<img align="right" height="150" src="https://github.com/user-attachments/assets/bbbb155b-9c8e-4370-a02d-ec5d2e8d85e8" />
 
 <br>
 
@@ -81,7 +81,7 @@
   .⋅˚₊‧ 🜲  ‧₊˚
 </div>
 
-<img align="left" height="200" src="https://github.com/user-attachments/assets/587bf75a-4a14-43b0-9ba2-9283325ce2db" />
+<img align="left" height="150" src="https://github.com/user-attachments/assets/587bf75a-4a14-43b0-9ba2-9283325ce2db" />
 
 <br>
 
