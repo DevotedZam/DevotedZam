@@ -100,7 +100,7 @@
   "you keep on begging, but i won't let you in"
 </div>
 
-<br>
+![](https://komarev.com/ghpvc/?username=DevotedZam&color=yellow&style=flat-square&label=devoted&abbreviated=true)
 
 <div align="right">
   "you keep on crying, but you know what you did"
